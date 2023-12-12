@@ -14,7 +14,7 @@ I'm tenacious developer with a talent for both coding and database management. I
 
 # My Skill Sets 💻
 
-Programming :  
+Programming:  
 - Java
 - Javascript
 
