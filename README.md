@@ -11,6 +11,7 @@ I'm tenacious developer with a talent for both coding and database management. I
 - *[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BFAD97885D5C8D591314010A4E82DCCF6D4BD9E0CAD7D553C495EDEEC06FEAF4)*
 - *[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BFAD97885D5C8D591314010A4E82DCCF6D4BD9E0CAD7D553C495EDEEC06FEAF4)*
 - *[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/29fc5240024c4e56abedc294658502ec)*
+- - *[ NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/b2a0c045a1a646ce9901d5acf4c43e00)*
 
 # My Skill Sets 💻
 
